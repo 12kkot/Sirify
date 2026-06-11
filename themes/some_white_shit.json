@@ -1,0 +1,11 @@
+{
+  "name": "some white shit",
+  "description": "some white shit",
+  "bgvideo": {
+    "url": "some_white_shit.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
