@@ -1,0 +1,11 @@
+{
+  "name": "Grass",
+  "description": "Grass nga",
+  "bgvideo": {
+    "url": "grass.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
