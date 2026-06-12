@@ -1,0 +1,11 @@
+{
+  "name": "Girl Smoking",
+  "description": "Girl Smoking theme for Sirify",
+  "bgvideo": {
+    "url": "girl_smoking.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
