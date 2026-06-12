@@ -1,0 +1,11 @@
+{
+  "name": "fat-fattie",
+  "description": "fat-fattie",
+  "bgvideo": {
+    "url": "fat-fattie.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
