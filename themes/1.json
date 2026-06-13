@@ -1,0 +1,11 @@
+{
+  "name": "1",
+  "description": "1",
+  "bgvideo": {
+    "url": "1.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
