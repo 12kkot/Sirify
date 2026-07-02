@@ -1,0 +1,11 @@
+{
+  "name": "Sky",
+  "description": "Sky theme for Sirify",
+  "bgvideo": {
+    "url": "sky.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
