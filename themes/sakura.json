@@ -1,0 +1,11 @@
+{
+  "name": "Sakura",
+  "description": "Sakura theme for Sirify",
+  "bgvideo": {
+    "url": "sakura.mp4",
+    "opacity": 0.45
+  },
+  "colors": {
+    "--lyrics-active-color": "#ffd866"
+  }
+}
